@@ -1,11 +1,4 @@
 # Script-Track-Ip
-
-# Alat
-  1.HP
-
-  2.Termux
-
-  3.kopi
 # Bahan Yg perlu diinstall
 
 $pkg update && pkg upgrade
